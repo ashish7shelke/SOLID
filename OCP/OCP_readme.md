@@ -1,5 +1,5 @@
 
-*Open-CLosed Principle*
+*Open-Closed Principle*
 ---------------------------------
 
 *Basic Idea:
