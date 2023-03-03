@@ -1,6 +1,4 @@
 
-/*
-
 *Single Responsibility Principle*
 ---------------------------------
 
@@ -15,14 +13,14 @@ If a class has more than one responsibilty, that class will have more than one r
 
 *Violating the Principle:
 
-When class has multiple respondibilities,
-	It's changed, rebuilt, retested and redeployed more often than actually needed
-	
-	Changes to one responsibility may unnecessarily impact other responsibilities.
-	
-	Changes in one class impact other dependent classes
-	
-	Its harder to maintain, reuse and test
+	When class has multiple respondibilities,
+		It's changed, rebuilt, retested and redeployed more often than actually needed
+		
+		Changes to one responsibility may unnecessarily impact other responsibilities.
+		
+		Changes in one class impact other dependent classes
+		
+		Its harder to maintain, reuse and test
 	
 *Complying with the principle
 
